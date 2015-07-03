@@ -1,0 +1,3 @@
+kpm restore
+dnu restore
+dnx . kestrel
